@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "first commit"
+git remote add origin [https://github.com/Lubury333/Chinese-Social-Psychology-Association-2023-Poster.git]
+git push -u origin master
